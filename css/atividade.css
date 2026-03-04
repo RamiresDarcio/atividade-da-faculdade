@@ -1,7 +1,9 @@
 h1{color: blue;
     
 }
-p{ color: blueviolet;}
+p{ font-size: 18px;
+    color: gray;
+}
 .destaque {
     color: red;
     font-weight: bold;
